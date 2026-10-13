@@ -1,0 +1,15 @@
+# Personal work
+my-solutions/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.DS_Store
